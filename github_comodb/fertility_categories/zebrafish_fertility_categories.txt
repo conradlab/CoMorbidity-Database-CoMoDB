@@ -1,0 +1,442 @@
+id	term
+ZP:0140268	sexual reproduction delayed, abnormal
+ZP:0138672	reproduction decreased efficacy, abnormal
+ZP:0023109	sexual reproduction process quality, abnormal
+ZP:0022187	developmental process involved in reproduction onset quality, abnormal
+ZP:0103689	developmental process involed in reproduction process quality, abnormal
+ZP:0016015	male meiosis I arrested, abnormal
+ZP:0141844	meiosis I disrupted, abnormal
+ZP:0102913	meiosis I arrested, abnormal
+ZP:00059963	male meiosis I disrupted, abnormal
+ZP:0005962	homologous chromosome pairing at meiosis disrupted, abnormal
+ZP:0016016	male meiosis I increased duration, abnormal
+ZP:0138094	spermatocyte decreased occurrence meiosis II, abnormal
+ZP:0013253	homologous chromosome pairing at meiosis process quality, abnormal
+ZP:0142387	oocyte stage IV disrupted meiosis I nuclear membrane disassembly, abnormal
+ZP:0103037	oocyte stage IV disrupted meiosis II nuclear membrane disassembly, abnormal
+ZP:0005301	meiotic sister chromatid cohesion involved in meiosis II disrupted, abnormal
+ZP:0108699	spermatocyte quality, abnormal
+ZP:0015094	testes quality, abnormal
+ZP:0103069	germ line cell testes absent, abnormal
+ZP:0009392	spermatocyte absent, abnormal
+ZP:0005976	spermatocyte decreased amount, abnormal
+ZP:0104056	spermatocyte male organism functionality, abnormal
+ZP:0106504	spermatocyte decreased occurrence regulation of meiotic cell phase transition, abnormal
+ZP:0109846	sperm quality, abnormal
+ZP:0103163	sperm amount, abnormal
+ZP:0142394	sperm morphology, abnormal
+ZP:0131248	sperm functional, abnormal
+ZP:0016020	sperm sperm duct absent, abnormal
+ZP:01404617	sperm flagellum sperm absent, abnormal
+ZP:0106503	sperm head sperm vacuolated, abnormal
+ZP:0005978	sperm absent, abnormal
+ZP:0018382	sperm testis absent, abnormal
+ZP:0106130	sperm-egg recognition disrupted, abnormal
+ZP:0140357	sperm decreased rate fertilization, abnormal
+ZP:0102433	fertilization disrupted, abnormal
+ZP:0009025	fertilization having decreased processual parts fertilization, abnormal
+ZP:0140357	sperm decreased rate fertilization, abnormal
+ZP:0141016	female organism decreased rate fertilization, abnormal
+ZP:0106128	fusion of sperm to egg plasma membrane involved in single fertilization disrupted, abnormal
+ZP:0106136	fusion of sperm to egg plasma membrane involved in single fertilization occurrence, abnormal
+ZP:0015094	testis quality, abnormal 
+ZP:0107277	(20R)-17,20-dihydroxypregn-4-en-3-one testis increased amount, abnormal
+ZP:0140570	11-Ketoandrosterone testis decreased amount, abnormal
+ZP:0142736	11-oxotestosterone testis normal amount, abnormal
+ZP:0138601	17beta-estradiol testis decreased amount, abnormal
+ZP:0020901	chromosome, telomeric region testis decreased length, abnormal
+ZP:0107072	condensed nuclear chromosome testis spatial pattern, abnormal
+ZP:0147216	cystine testis increased amount, abnormal
+ZP:0139743	epithelium testis composition, abnormal
+ZP:0142735	estradiol testis normal amount, abnormal
+ZP:0016315	germ cell tumor testis neoplastic, abnormal
+ZP:0005560	germ cell tumor testis proliferative, abnormal
+ZP:0103069	germ line cell testis absent, abnormal
+ZP:0018382	sperm testis absent, abnormal
+ZP:0018381	spermatid testis absent, abnormal
+ZP:0145322	spermatocyte testis absent, abnormal
+ZP:0103069	germ line cell absent, abnormal
+ZP:0103068	germ line cell gonad absent, abnormal
+ZP:0103069	germ line cell testis absent, abnormal
+ZP:0018382	sperm testis absent, abnormal
+ZP:0018381	spermatid testis absent, abnormal
+ZP:0145322	spermatocyte testis absent, abnormal
+ZP:0148249	sperm gonad absent, abnormal
+ZP:0102906	germ line cell seminiferous tubule absent, abnormal
+ZP:0001999	oocyte absent, abnormal
+ZP:0015853	oocyte stage I absent, abnormal
+ZP:0148155	oocyte stage III absent, abnormal
+ZP:0009391	oocyte stage IV absent, abnormal
+ZP:0103071	oogonia absent, abnormal
+ZP:0100712	primordial germ cell absent, abnormal
+ZP:0005978	sperm absent, abnormal
+ZP:0148249	sperm gonad absent, abnormal
+ZP:0145323	sperm seminiferous tubule absent, abnormal
+ZP:0016020	sperm sperm duct absent, abnormal
+ZP:0109266	gamete quality, abnormal
+ZP:0005257	germ line cell absent, abnormal
+ZP:0005258	germ line cell apoptotic, abnormal
+ZP:0005259	germ line cell decreased amount, abnormal
+ZP:0019442	germ line cell decreased size, abnormal
+ZP:0142881	germ line cell male organism increased amount, abnormal
+ZP:0019115	germ line cell mislocalised, abnormal
+ZP:0107022	germ line cell neoplastic, abnormal
+ZP:0145376	germ line cell normal amount, abnormal
+ZP:0144948	germ line cell spatial pattern, abnormal
+ZP:0018407	germ line cell testis increased size, abnormal
+ZP:0130943	nucleus germ line cell physical object quality, abnormal
+ZP:0107483	oocyte quality, abnormal
+ZP:0109917	oogonia quality, abnormal
+ZP:0001575	primordial germ cell quality, abnormal
+ZP:0109846	sperm quality, abnormal
+ZP:0110189	spermatid quality, abnormal
+ZP:0108699	spermatocyte quality, abnormal
+ZP:0108421	spermatogonium quality, abnormal
+ZP:0009057	germ line cell testis apoptotic, abnormal
+ZP:0019098	germ line cell testis decreased amount, abnormal
+ZP:0009056	sperm testis decreased amount, abnormal
+ZP:0143996	spermatocyte testis decreased amount, abnormal
+ZP:0018407	germ line cell testis increased size, abnormal
+ZP:0107069	germ line cell testis spatial pattern, abnormal
+ZP:0148683	Leydig cell testis absent, abnormal
+ZP:0142388	Leydig cell testis decreased distribution, abnormal
+ZP:0103704	Leydig cell testis increased amount, abnormal
+ZP:0102907	lymphocyte testis increased amount, abnormal
+ZP:0148183	T cell testis increased amount, abnormal
+ZP:0148184	macrophage testis increased amount, abnormal
+ZP:0142583	neoplasm testis present, abnormal
+ZP:0141665	carcinoma testis present, abnormal
+ZP:0009390	germ cell tumor testis present, abnormal
+ZP:0018406	oocyte testis present, abnormal
+ZP:0146413	ovarian follicle testis present, abnormal
+ZP:0142389	Sertoli cell testis absent, abnormal
+ZP:0103701	somatic cell testis disorganized, abnormal
+ZP:0147005	sperm testis morphology, abnormal
+ZP:0146415	sperm testis absence of anatomical entity, abnormal
+ZP:0147799	sperm testis normal amount, abnormal
+ZP:0147799	spermatid testis normal amount, abnormal
+ZP:0005559	germ cell tumor testis increased amount, abnormal
+ZP:0003995	seminoma testis present, abnormal
+ZP:0146414	spermatocyte testis absence of anatomical entity, abnormal
+ZP:0016019	spermatocyte testis present, abnormal
+ZP:0143996	spermatocyte testis decreased amount, abnormal
+ZP:0147798	spermatocyte testis normal amount, abnormal
+ZP:0147838	spermatogenic cyst testis normal amount, abnormal
+ZP:0016021	spermatogonium testis amount, abnormal
+ZP:0016022	spermatogonium testis present, abnormal
+ZP:0015012	testis absent, abnormal
+ZP:0141279	testis decreased concentration sperm testis, abnormal
+ZP:0012914	testis physical object quality, abnormal
+ZP:0140573	testis altered number of sperm, abnormal
+ZP:0103045	testis lacks parts or has fewer parts of type sperm, abnormal
+ZP:0140574	testis altered number of spermatogonium, abnormal
+ZP:0103047	testis has extra parts of type spermatogonium, abnormal
+ZP:0141303	testis deformed, abnormal
+ZP:0106162	testis has extra parts of type Sertoli cell, abnormal
+ZP:0103046	testis has extra parts of type spermatocyte, abnormal
+ZP:0130944	testis lacks parts or has fewer parts of type germ line cell, abnormal
+ZP:0008204	testis has fewer parts of type spermatocyte, abnormal
+ZP:0019858	testis lacks all parts of type germ line cell, abnormal
+ZP:0147529	testis lacks all parts of type sperm, abnormal
+ZP:0104061	testis lacks all parts of type spermatid, abnormal
+ZP:0103045	testis lacks parts or has fewer parts of type sperm, abnormal
+ZP:0147793	testis male organism morphology, abnormal
+ZP:0103442	testis male organism increased size, abnormal
+ZP:0140572	testis size, abnormal
+ZP:0012638	testis decreased size, abnormal
+ZP:0009054	testis atrophied, abnormal
+ZP:0147528	testis decreased thickness, abnormal
+ZP:0143631	testis hypotrophic, abnormal
+ZP:0009388	testis increased size, abnormal
+ZP:0015162	testis hypertrophic, abnormal
+ZP:0144559	testis increased area, abnormal
+ZP:0103442	testis male organism increased size, abnormal
+ZP:0144562	testis normal size, abnormal
+ZP:0103698	testis spatial pattern, abnormal
+ZP:0142392	testis decreased distribution, abnormal
+ZP:0103699	testis increased distribution, abnormal
+ZP:0003037	testis structure, abnormal
+ZP:0144220	testis accumulation spermatocyte, abnormal
+ZP:0143640	testis accumulation spermatogonium, abnormal
+ZP:0005972	testis apoptotic, abnormal
+ZP:0008203	testis degeneration, abnormal
+ZP:0019100	testis disorganized, abnormal
+ZP:0138248	testis fibrotic, abnormal
+ZP:0009389	testis increased accumulation primordial germ cell, abnormal
+ZP:0008202	testis neoplastic, abnormal
+ZP:0019102	testis unlumenized, abnormal
+ZP:0103702	testis vacuolated, abnormal
+ZP:0019113	testis aplastic/hypoplastic, abnormal
+ZP:0144440	testis decreased mass, abnormal
+ZP:0019911	testis decreased weight, abnormal
+ZP:0137754	testis has normal numbers of parts of type spermatid, abnormal
+ZP:0106506	testis has normal numbers of parts of type spermatogonium, abnormal
+ZP:0005558	testis hyperplastic, abnormal
+ZP:0019449	testis immature, abnormal
+ZP:0005971	testis increased weight, abnormal
+ZP:0147807	testis male organism weight, abnormal
+ZP:0013179	testis morphology, abnormal
+ZP:0009053	testis senescent, abnormal
+ZP:0107070	testis translucent, abnormal
+ZP:0106160	testis transparent, abnormal
+ZP:0013184	testis present, abnormal
+ZP:0019448	testis decreased amount, abnormal
+ZP:0014991	testis increased amount, abnormal
+ZP:0140565	testosterone testis decreased amount, abnormal
+ZP:0110189	spermatid quality, abnormal
+ZP:0140840	spermatid absent, abnormal
+ZP:0018381	spermatid testis absent, abnormal
+ZP:0148280	spermatid apoptotic, abnormal
+ZP:0103696	spermatid decreased amount, abnormal
+ZP:0147797	spermatid testis normal amount, abnormal
+ZP:0108699	spermatocyte quality, abnormal
+ZP:0142723	chromatin spermatocyte absent, abnormal
+ZP:0144219	chromatin spermatocyte decreased amount, abnormal
+ZP:0016026	chromatin spermatocyte phosphorylation, abnormal
+ZP:0142722	chromatin spermatocyte spatial pattern, abnormal
+ZP:0144218	chromatin spermatocyte decreased distribution, abnormal
+ZP:0147313	chromosome spermatocyte spatial pattern, abnormal
+ZP:0147314	chromosome spermatocyte decreased distribution, abnormal
+ZP:0016018	condensed chromosome spermatocyte morphology, abnormal
+ZP:0147312	nucleus spermatocyte spatial pattern, abnormal
+ZP:0005977	recombination nodule spermatocyte absent, abnormal
+ZP:0009392	spermatocyte absent, abnormal
+ZP:0145322	spermatocyte testis absent, abnormal
+ZP:0008205	spermatocyte apoptotic, abnormal
+ZP:0104056	spermatocyte male organism functionality, abnormal
+ZP:0147310	spermatocyte present, abnormal
+ZP:0005976	spermatocyte decreased amount, abnormal
+ZP:0005975	spermatocyte increased amount, abnormal
+ZP:0015849	spermatocyte normal amount, abnormal
+ZP:0016019	spermatocyte testis present, abnormal
+ZP:0146414	spermatocyte testis absence of anatomical entity, abnormal
+ZP:0107073	synaptonemal structure spermatocyte absent, abnormal
+ZP:0142721	telomere cap complex spermatocyte increased amount, abnormal
+ZP:0108421	spermatogonium quality, abnormal
+ZP:0140842	spermatogonium absence due to degeneration, abnormal
+ZP:0015885	spermatogonium absent, abnormal
+ZP:0103073	spermatogonium apoptotic, abnormal
+ZP:0103074	spermatogonium deformed, abnormal
+ZP:0106165	spermatogonium increased size, abnormal
+ZP:0146416	spermatogonium present, abnormal
+ZP:0021768	spermatogonium decreased amount, abnormal
+ZP:0005979	spermatogonium increased amount, abnormal
+ZP:0147800	spermatogonium normal amount, abnormal
+ZP:0016022	spermatogonium testis present, abnormal
+ZP:0016021	spermatogonium testis amount, abnormal
+ZP:0016022	spermatogonium testis present, abnormal
+ZP:0141319	spermatogonium undifferentiated, abnormal
+ZP:0022190	sperm cellular motility, abnormal
+ZP:0015387	sperm decreased cellular motility, abnormal
+ZP:0100332	sperm increased cellular motility, abnormal
+ZP:0147082	sperm normal cellular motility, abnormal
+ZP:0101273	sperm decreased velocity, abnormal
+ZP:0104617	sperm flagellum sperm absent, abnormal
+ZP:0106501	sperm flagellum sperm decreased length, abnormal
+ZP:0104664	sperm flagellum sperm spatial pattern, abnormal
+ZP:0104665	sperm flagellum sperm decreased distribution, abnormal
+ZP:0131248	sperm functional, abnormal
+ZP:0015386	sperm decreased functionality, abnormal
+ZP:0146275	sperm head plasma membrane sperm absent, abnormal
+ZP:0106505	sperm head plasma membrane sperm dislocated, abnormal
+ZP:0144333	sperm head plasma membrane sperm spatial pattern, abnormal
+ZP:0144334	sperm head plasma membrane sperm decreased distribution, abnormal
+ZP:0106502	sperm head sperm increased size, abnormal
+ZP:0147046	sperm head sperm spatial pattern, abnormal
+ZP:0147047	sperm head sperm decreased distribution, abnormal
+ZP:0106503	sperm head sperm vacuolated, abnormal
+ZP:0100333	sperm increased velocity, abnormal
+ZP:0144336	sperm male organism normal mobility, abnormal
+ZP:0141782	sperm mature, abnormal
+ZP:0148387	sperm midpiece sperm loose, abnormal
+ZP:0142394	sperm morphology, abnormal
+ZP:0147311	sperm absence of anatomical entity, abnormal
+ZP:0144335	sperm male organism morphology, abnormal
+ZP:0147005	sperm testis morphology, abnormal
+ZP:0016017	sperm non-functional, abnormal
+ZP:0145124	sperm normal velocity, abnormal
+ZP:0145123	sperm viability, abnormal
+ZP:0146237	sperm male organism semi-viable, abnormal
+ZP:0141279	testis decreased concentration sperm testis, abnormal
+ZP:0109846	sperm quality, abnormal
+ZP:0104632	axonemal dynein complex sperm composition, abnormal
+ZP:0104616	axoneme sperm absent, abnormal
+ZP:0104614	axoneme sperm decreased amount, abnormal
+ZP:0106499	axoneme sperm malformed, abnormal
+ZP:0006378	centriole sperm composition, abnormal
+ZP:0015388	chromosome sperm wholeness, abnormal
+ZP:0104663	distal side sperm immobile, abnormal
+ZP:0104615	inner dynein arm sperm decreased amount, abnormal
+ZP:0015389	mitochondrion sperm non-functional, abnormal
+ZP:0104618	outer dynein arm sperm absent, abnormal
+ZP:0148384	phosphatidylcholine 32:0 sperm decreased amount, abnormal
+ZP:0148383	phosphatidylcholine 32:1 sperm normal amount, abnormal
+ZP:0148385	phosphatidylcholine 34:0 sperm normal amount, abnormal
+ZP:0148375	phosphatidylcholine 34:1 sperm normal amount, abnormal
+ZP:0148374	phosphatidylcholine 34:2 sperm normal amount, abnormal
+ZP:0148386	phosphatidylcholine 36:1 sperm normal amount, abnormal
+ZP:0148372	phosphatidylcholine 36:2 sperm normal amount, abnormal
+ZP:0148379	phosphatidylcholine 36:3 sperm increased amount, abnormal
+ZP:0148377	phosphatidylcholine 36:4 sperm normal amount, abnormal
+ZP:0148373	phosphatidylcholine 38:3 sperm normal amount, abnormal
+ZP:0148429	phosphatidylcholine 38:4 sperm normal amount, abnormal
+ZP:0148381	phosphatidylcholine 38:5 sperm normal amount, abnormal
+ZP:0148376	phosphatidylcholine 38:6 sperm normal amount, abnormal
+ZP:0148380	phosphatidylcholine 40:5 sperm normal amount, abnormal
+ZP:0148371	phosphatidylcholine 40:6 sperm normal amount, abnormal
+ZP:0148378	phosphatidylcholine 40:7 sperm normal amount, abnormal
+ZP:0148375	phosphatidylethanolamine 34:1 sperm normal amount, abnormal
+ZP:0148374	phosphatidylethanolamine 34:2 sperm normal amount, abnormal
+ZP:0148386	phosphatidylethanolamine 36:1 sperm normal amount, abnormal
+ZP:0148372	phosphatidylethanolamine 36:2 sperm normal amount, abnormal
+ZP:0148379	phosphatidylethanolamine 36:3 sperm increased amount, abnormal
+ZP:0148377	phosphatidylethanolamine 36:4 sperm increased amount, abnormal
+ZP:0148373	phosphatidylethanolamine 38:3 sperm normal amount, abnormal
+ZP:0148382	phosphatidylethanolamine 38:4 sperm normal amount, abnormal
+ZP:0148381	phosphatidylethanolamine 38:5 sperm normal amount, abnormal
+ZP:0148376	phosphatidylethanolamine 38:6 sperm normal amount, abnormal
+ZP:0148380	phosphatidylethanolamine 40:5 sperm decreased amount, abnormal
+ZP:0148371	phosphatidylethanolamine 40:6 sperm decreased amount, abnormal
+ZP:0148378	phosphatidylethanolamine 40:7 sperm normal amount, abnormal
+ZP:0015390	plasma membrane sperm permeability, abnormal
+ZP:0104662	proximal side sperm cellular motility, abnormal
+ZP:0103163	sperm amount, abnormal
+ZP:0005978	sperm absent, abnormal
+ZP:0148249	sperm gonad absent, abnormal
+ZP:0018382	sperm testis absent, abnormal
+ZP:0145323	sperm seminiferous tubule absent, abnormal
+ZP:0016020	sperm sperm duct absent, abnormal
+ZP:0144496	sperm present, abnormal
+ZP:0005256	sperm decreased amount, abnormal
+ZP:0143997	sperm male organism decreased amount, abnormal
+ZP:0009056	sperm testis decreased amount, abnormal
+ZP:0107279	sperm increased amount, abnormal
+ZP:0143755	sperm normal amount, abnormal
+ZP:0141302	development of secondary sexual characteristics decreased occurrence, abnormal
+ZP:0141280	development of secondary male sexual characteristics decreased occurrence, abnormal
+ZP:0019861	egg activation decreased process quality, abnormal
+ZP:0142993	egg activation decreased occurrence, abnormal
+ZP:0021595	egg-laying behavior decreased process quality, abnormal
+ZP:0138674	egg-laying behavior decreased frequency, abnormal
+ZP:0140888	egg-laying behavior decreased occurrence, abnormal
+ZP:0145015	female organism decreased occurrence egg-laying behavior, abnormal
+ZP:0005340	female gonad development arrested, abnormal
+ZP:0147009	female mating behavior decreased duration, abnormal
+ZP:0147008	female mating behavior decreased frequency, abnormal
+ZP:0144512	female mating behavior decreased occurrence, abnormal
+ZP:0147222	female organism decreased process quality egg deposition, abnormal
+ZP:0018437	female sex determination decreased process quality, abnormal
+ZP:0101721	female sex determination decreased occurrence, abnormal
+ZP:0106751	female sex differentiation arrested, abnormal
+ZP:0015391	fertilization decreased occurrence, abnormal
+ZP:0106154	fertilization decreased rate, abnormal
+ZP:0015391	fertilization decreased occurrence, abnormal
+ZP:0143485	fertilization decreased rate of occurrence, abnormal
+ZP:0144192	oocyte decreased rate fertilization, abnormal
+ZP:0142700 	oocyte normal rate fertilization, abnormal
+ZP:0140357	sperm decreased rate fertilization, abnormal
+ZP:0140357	sperm decreased rate fertilization, abnormal
+ZP:0143652	whole organism decreased rate fertilization, abnormal
+ZP:0019856	germ cell development decreased process quality, abnormal
+ZP:0144816	female organism decreased process quality oocyte development, abnormal
+ZP:0021831	female organism process quality female gonad development, abnormal
+ZP:0102914	germ cell development arrested, abnormal
+ZP:0009386	germ cell development disrupted, abnormal
+ZP:0017152	germ cell development process quality, abnormal
+ZP:0101703	immature gonad decreased occurrence germ cell development, abnormal
+ZP:0101705	immature gonad decreased occurrence female gonad development, abnormal
+ZP:0101704	immature gonad increased occurrence male gonad development, abnormal
+ZP:0103121	germ line cell immature gonad decreased amount, abnormal
+ZP:0101706	immature gonad decreased occurrence female somatic sex determination, abnormal
+ZP:0101710	somatic cell immature gonad decreased distribution, abnormal
+ZP:0101714	immature gonad has fewer parts of type germ line cell, abnormal
+ZP:0108708	immature gonad quality, abnormal
+ZP:0104059	immature gonad process quality gonad morphogenesis, abnormal
+ZP:0103079	immature gonad absent, abnormal
+ZP:0104059	immature gonad decreased process quality apoptotic process, abnormal
+ZP:0101704	immature gonad increased occurrence male gonad development, abnormal
+ZP:0101705	immature gonad decreased occurrence female gonad development, abnormal
+ZP:0148162	immature gonad hypoplastic, abnormal
+ZP:0015852	immature gonad morphology, abnormal
+ZP:0148246	immature gonad decreased size, abnormal
+ZP:0101714	immature gonad has fewer parts of type germ line cell, abnormal
+ZP:0130944	testis lacks parts or has fewer parts of type germ line cell, abnormal
+ZP:0019114	gonad primordium lacks all parts of type germ line cell, abnormal
+ZP:0137745	immature gonad structure, abnormal
+ZP:0022917	immature gonad present, abnormal
+ZP:0101713	immature gonad decreased amount, abnormal
+ZP:0101712	immature gonad increased amount, abnormal
+ZP:0101711	somatic cell immature gonad decreased amount, abnormal
+ZP:0101708	somatic cell immature gonad increased amount, abnormal
+ZP:0101709	somatic cell immature gonad increased distribution, abnormal
+ZP:0106304	oocyte development decreased occurrence, abnormal
+ZP:0009385	oocyte maturation decreased occurrence, abnormal
+ZP:0140979	oogenesis decreased process quality, abnormal
+ZP:0101868	oogenesis process quality, abnormal
+ZP:0140981	oogenesis normal process quality, abnormal
+ZP:0003515	germ cell migration decreased process quality, abnormal
+ZP:0101911	germ cell migration decreased occurrence, abnormal
+ZP:0106155	germ cell proliferation decreased occurrence, abnormal
+ZP:0101705	immature gonad decreased occurrence female gonad development, abnormal
+ZP:0101703	immature gonad decreased occurrence germ cell development, abnormal
+ZP:0102571	male courtship behavior decreased process quality, abnormal
+ZP:0020336	male courtship behavior decreased occurrence, abnormal
+ZP:0146238	male courtship behavior process quality, abnormal
+ZP:0019099	male gonad development arrested, abnormal
+ZP:0147007	male mating behavior decreased duration, abnormal
+ZP:0147006	male mating behavior decreased frequency, abnormal
+ZP:0020334	male mating behavior decreased occurrence, abnormal
+ZP:0020336	male courtship behavior decreased occurrence, abnormal
+ZP:0008198	male meiotic nuclear division arrested, abnormal
+ZP:0016015	male meiosis I arrested, abnormal
+ZP:0102913	meiosis I arrested, abnormal
+ZP:0104038	male organism arrested sperm ejaculation, abnormal
+ZP:0145367	male organism decreased process quality spermatogenesis, abnormal
+ZP:0018439	male sex determination decreased process quality, abnormal
+ZP:0101725	male sex determination decreased occurrence, abnormal
+ZP:0102915	meiotic cell cycle arrested, abnormal
+ZP:0021188	oocyte growth arrested, abnormal
+ZP:0138673	oocyte maturation decreased process quality, abnormal
+ZP:0009385	oocyte maturation decreased occurrence, abnormal
+ZP:0142167	oocyte stage III decreased rate of occurrence oocyte maturation, abnormal
+ZP:0142155	oocyte stage IV decreased rate of occurrence oocyte maturation, abnormal
+ZP:0140965	oocyte stage V decreased process quality vitelline membrane formation, abnormal
+ZP:0019443	ovarian follicle development arrested, abnormal
+ZP:0143647	ovary decreased process quality oocyte differentiation, abnormal
+ZP:0012639	ovulation decreased occurrence, abnormal
+ZP:0106800	ovulation arrested, abnormal
+ZP:0137541	ovulation from ovarian follicle decreased occurrence, abnormal
+ZP:0148154	ovulation decreased rate, abnormal
+ZP:0103036	female organism decreased rate ovulation, abnormal
+ZP:0015610	pole plasm mRNA localization arrested, abnormal
+ZP:0143761	single fertilization decreased efficacy, abnormal
+ZP:0106500	sperm decreased process quality sperm axoneme assembly, abnormal
+ZP:0140359	sperm motility decreased process quality, abnormal
+ZP:0103040	flagellated sperm motility decreased process quality, abnormal
+ZP:0147318	spermatocyte arrested meiosis I cell cycle process, abnormal
+ZP:0147317	spermatocyte arrested meiotic telomere clustering, abnormal
+ZP:0141843	spermatocyte arrested reciprocal meiotic recombination, abnormal
+ZP:0138094	spermatocyte decreased occurrence meiosis II, abnormal
+ZP:0022841	spermatogenesis decreased occurrence, abnormal
+ZP:0008199	spermatogenesis arrested, abnormal
+ZP:0145368	spermatogenic cyst decreased process quality meiotic cell cycle, abnormal
+ZP:0009022	spermatogonial cell division decreased occurrence, abnormal
+ZP:0148151	testis decreased occurrence male meiotic nuclear division, abnormal
+ZP:0143628	testis decreased process quality meiosis I, abnormal
+ZP:0143648	testis decreased process quality spermatid differentiation, abnormal
+ZP:0144269	vitellogenesis decreased process quality, abnormal
+ZP:0131252	ovarian follicle decreased occurrence vitellogenesis, abnormal
+ZP:0013365	spermatogenesis process quality, abnormal
+ZP:0147321	gonad process quality spermatogenesis, abnormal
+ZP:0101871	ovary increased occurrence spermatogenesis, abnormal
+ZP:0143629	testis disrupted spermatogenesis, abnormal
+ZP:0143627	testis normal process quality spermatogenesis, abnormal
+ZP:0145367	male organism decreased process quality spermatogenesis, abnormal
+ZP:0104037	male organism occurrence spermatogenesis, abnormal
+ZP:0022841	spermatogenesis decreased occurrence, abnormal
+ZP:0003030	spermatogenesis disrupted, abnormal
+ZP:0147801	spermatogenesis normal process quality, abnormal
+ZP:0148727	spermatogenesis normal occurrence, abnormal
+ZP:0143627	testis normal process quality spermatogenesis, abnormal
+ZP:0137750	spermatogenesis onset quality, abnormal
+ZP:0137752	spermatogenesis progressive, abnormal

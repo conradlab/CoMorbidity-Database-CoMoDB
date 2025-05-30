@@ -1,0 +1,217 @@
+id	term
+HP:4000056	Abnormal apoptosis
+HP:0031411	Abnormal chromosome morphology
+HP:0003254	Abnormality of DNA repair
+HP:0040012	Chromosome breakage
+HP:0003079	Defective DNA repair after ultraviolet radiation damage
+HP:0410166	Defective interstrand cross-link repair
+HP:0003213	Deficient excision of UV-induced pyrimidine dimers in DNA
+HP:0003689	Multiple mitochondrial DNA deletions
+HP:0031413	short telomere length
+HP:0009714	Abnormal epididymis morphology
+HP:0034480	Absent epididymidis
+HP:0034479	Enlarged epididymis
+HP:0030424	Epididymal cyst
+HP:0030421	Epididymal neoplasm
+HP:0000031	Epididymitis
+HP:0000039	Epispadias
+HP:0009715	Papillary cystadenoma of the epididymis
+HP:0033808	Spermatocele
+HP:0012889	Cervical endometriosis
+HP:0000868	Decreased fertility in females
+HP:0030127	Endometriosis
+HP:0000134	Female hypogonadism
+HP:0008222	Female infertility
+HP:0100674	Vaginal hematocele
+HP:0100673	Vaginal hydrocele
+HP:0100676	Vaginal lymphocele
+HP:0100675	Vaginal pyocele
+HP:0033337	Abnormal gametogenesis
+HP:0008669	Abnormal spermatogenesis
+HP:6000328	Absent zona pellucida
+HP:0000027	Azoospermia
+HP:0100621	Dysgerminoma
+HP:0034815	Extreme oligozoospermia
+HP:4000008	Formation of multiple pronuclei during fertilization
+HP:0000150	Gonadoblastoma
+HP:0034813	Hypospermatogenesis
+HP:0032571	Increased oocyte death
+HP:0034719	Lack of oocyte pronucleus formation
+HP:0034816	Mild oligozoospermia
+HP:0034817	Moderate oligozoospermia
+HP:0011961	Non-obstructive azoospermia
+HP:0031516	Oocyte arrest at metaphase I
+HP:0034914	Oocyte maturation arrest
+HP:0008209	Premature ovarian insufficiency
+HP:0011963	Pretesticular azoospermia
+HP:0033085	Reduced antral follicle count
+HP:0034299	Sertoli cell-only phenotype
+HP:0034818	Severe oligoozospermia
+HP:0031039	Spermatocyte maturation arrest
+HP:0031038	Spermatogenesis maturation arrest
+HP:0034812	Spermiation failure
+HP:0034945	Tubular shadows
+HP:0000812	Abnormal internal genitalia
+HP:0000032	Abnormal male external genitalia morphology
+HP:0008775	Abnormal prostate morphology
+HP:0012856	Abnormal scrotal rugation
+HP:0000045	Abnormal scrotum morphology
+HP:6000190	Abnormal seminal vesicle morphology
+HP:0010461	Abnormality of the male genitalia
+HP:0000022	Abnormal male internal genital morphology
+HP:0000042	Absent external gentilalia
+HP:0008702	Absent internal genitalia
+HP:0008707	Absent scrotum
+HP:0012873	Absent vas deferens
+HP:0000062	Ambiguous genitalia
+HP:0000033	"Ambiguous genitalia, male"
+HP:0030869	Anorchism
+HP:0010469	Aplasia of the testes
+HP:0010468	Aplasia/hypoplasia of the testes
+HP:0030997	Atretic vas deferens
+HP:0100599	Bifid penis
+HP:0000048	Bifid scrotum
+HP:0008689	Bilateral cryptochidism
+HP:0008743	Coronal hypospadias
+HP:0000028	Cryptochidism
+HP:0008733	Dysplastic testes
+HP:0030275	Ectopic scrotum
+HP:0008730	"Female external genitalia in individual with 46,XY karyotype"
+HP:0000025	Functional abnormality of male internal genitalia
+HP:0000807	Glandular hypospadias
+HP:0000133	Gonadal dysgenesis
+HP:0008723	"Gonadal dysgenesis with female appearance, male"
+HP:0008639	Gonadal hypoplasia
+HP:0000044	Hypogonadotrophic hypogonadism
+HP:0000050	Hypoplastic male external genitalia
+HP:0000047	Hypospadias
+HP:0008656	Incomplete male pseudohermaphroditism
+HP:4000038	Infantile hydrocele
+HP:0008668	Male gonadal dysgenesis
+HP:0000026	Male hypogonadism
+HP:0012854	Midshaft hypospadias
+HP:0030868	Monorchism
+HP:0003244	Penile hypospadias
+HP:0000808	Penoscrotal hypospadias
+HP:0100600	Penoscrotal transposition
+HP:0000051	Perineal hypospadias
+HP:0008204	Precocious puberty with Sertoli cell tumor
+HP:0034546	"Presence of uterus in 46,XY individual"
+HP:0012853	Scrotal hypospadias
+HP:0012245	Sex reversal
+HP:0000049	Shawl scrotum
+HP:0012741	Unilateral cryptorchidism
+HP:0012870	Vanishing testis
+HP:0000144	Decreased fertility
+HP:0000789	Infertility
+HP:0012875	Abnormal ejaculation
+HP:0012874	Abnormal male reproductive system physiology
+HP:0012879	Anejaculation
+HP:0008652	Autonomic erectile dysfunction
+HP:0008711	Benign prostatic hyperplasia
+HP:0012041	Decreased fertility in males
+HP:6000471	Dilated ejaculatory duct
+HP:0000802	Impotence
+HP:0040308	Male anorgasmia
+HP:0003251	Male infertility
+HP:0040307	Male sexual dysfunction
+HP:0012876	Premature ejaculation
+HP:0200023	Priapism
+HP:0012125	Prostate cancer
+HP:0020126	Prostate mass
+HP:0100787	Prostate neoplasm
+HP:0034882	Prostatic calculus
+HP:0000024	Prostatitis
+HP:0012878	Retarded ejaculation
+HP:0033338	Abnormal female meiosis
+HP:0031515	Abnormal meiosis
+HP:0020156	Abnormal zona pellucida morphology
+HP:0000137	Abnormality of the ovary
+HP:0031067	Empty ovarian follicle
+HP:0031919	Juvenile type ovarian granulosa cell tumor
+HP:0010618	Ovarian fibroma
+HP:0000149	Ovarian gonadoblastoma
+HP:0100615	Ovarian neoplasm
+HP:0031918	Ovarian sex cord-stromal tumor
+HP:0030983	Ovarian thecoma
+HP:0033524	Abnormal sperm axoneme morphology
+HP:0012867	Abnormal sperm mid-piece morphology
+HP:0012864	Abnormal sperm morhpology
+HP:0012206	Abnormal sperm motility
+HP:0034809	Abnormal sperm physiology
+HP:0033523	Abnormal sperm principal piece morphology
+HP:0033525	Absent sperm axoneme central pair complex
+HP:0032558	Absent sperm flagella
+HP:0012869	Acephalic spermatozoa
+HP:0034913	Acrosomal hypoplasia
+HP:0034947	Altered location of the longitudinal column in the fibrous sheath
+HP:0034958	Asymmetrical insertion of the midpiece into the head
+HP:0034811	bent sperm flagella
+HP:0034959	Bent sperm neck
+HP:0032560	Coiled sperm flagella
+HP:0030974	Cryptozoospermia
+HP:0031136	Decreased acrosin in sperm head
+HP:0034842	Enlarged sperm head vacuole
+HP:0034795	Excess residual spermatozoal cytoplasm
+HP:0012205	Globozoospermia
+HP:0033393	Irregularly shaped sperm tail
+HP:6000135	Low semen volume
+HP:0025437	Macrozoospermia
+HP:0032561	Microcephalic sperm head
+HP:0034309	Multiflagellar spermatozoa
+HP:0012208	Non-motile sperm
+HP:0000798	Oligospermia
+HP:0034794	Pyriform sperm head
+HP:0012207	Reduced sperm motility
+HP:0034011	Reduced sperm progressive motility
+HP:0031040	Round spermatid arrest
+HP:6000501	Ruffled acrosome
+HP:0032559	Short sperm flagella
+HP:0034810	Small acrosomal area
+HP:0012865	Sperm head anomaly
+HP:0012866	Sperm neck anomaly
+HP:0012868	Sperm tail anomaly
+HP:0032562	Tapered sperm head
+HP:0035008	Thick spermatozoon midpiece insertion
+HP:0035007	Thin spermatozoon midpiece
+HP:0000035	Abnormal testis morphology
+HP:0012872	Abnormal vas deferens morphology
+HP:0045058	Abnormality of the testis size
+HP:0008640	Congenital macroorchidism
+HP:0008734	Decreased testicular size
+HP:4000036	Encysted hydrocele of the cord
+HP:0008703	Gonadal calcification
+HP:0000034	Hydrocele testis
+HP:0000815	Hypergonadotrophic hypogonadism
+HP:0010791	Hyperplasia of the Leydig cells
+HP:0010790	Hypoplasia of the Leydig cells
+HP:0008687	Hypoplasia of the prostate
+HP:0025038	Intratesticular abscess
+HP:0100618	Leydig cell neoplasia
+HP:0000053	Macroorchidism
+HP:0002050	"Macroorchidism, postpubertal"
+HP:0100849	Neoplasm of the scrotum
+HP:0011962	Obstructive azoospermia
+HP:0100796	Orchitis
+HP:0008720	Primary testicular failure
+HP:0012646	Retractile testis
+HP:0430121	Seminal vesicle agenesis
+HP:6000191	Seminal vesicle cyst
+HP:6000338	Seminal vesicle hypoplasia
+HP:0034746	Sertoli cell hyperplasia
+HP:0100619	Sertoli cell neoplasm
+HP:0000046	Small scrotum
+HP:0025410	Splenogonadal fusion
+HP:0010470	Supernumerary testes
+HP:0025451	Testicular adrenal rest tumor
+HP:0000029	Testicular atrophy
+HP:0008715	Testicular dysgenesis
+HP:0012860	Testicular fibrosis
+HP:0000030	Testicular gonadoblastoma
+HP:0025476	Testicular lipomatosis
+HP:0032404	Testicular mass
+HP:0012215	Testicular microlithiasis
+HP:0100617	Testicular seminoma
+HP:0100616	Testicular teratoma
+HP:0100813	Testicular torsion
+HP:0012871	varicocele

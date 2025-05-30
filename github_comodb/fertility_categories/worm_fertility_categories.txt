@@ -1,0 +1,81 @@
+id	term
+WBPhenotype:0000101	UV induced apoptosis increased
+WBPhenotype:0000154	reduced brood size
+WBPhenotype:0000183	apoptosis increased
+WBPhenotype:0000188	gonad arm morphology variant
+WBPhenotype:0000288	distal germline variant
+WBPhenotype:0000290	sperm absent
+WBPhenotype:0000291	no oocytes
+WBPhenotype:0000386	genotoxic chemical induced apoptosis variant
+WBPhenotype:0000590	cell corpse number variant
+WBPhenotype:0000673	brood size variant
+WBPhenotype:0000688	sterile
+WBPhenotype:0000689	maternal sterile
+WBPhenotype:0000691	gonad development variant
+WBPhenotype:0000711	organism hypersensitive X ray irradiation
+WBPhenotype:0000712	germ cell ionizing radiation response variant
+WBPhenotype:0000730	apoptosis variant
+WBPhenotype:0000731	germ cell hypersensitive ionizing radiation
+WBPhenotype:0000741	DNA damage checkpoint variant
+WBPhenotype:0000772	sister chromatid segregation defective early emb
+WBPhenotype:0000775	meiosis variant
+WBPhenotype:0000812	germ cell development variant
+WBPhenotype:0001037	sterile progeny
+WBPhenotype:0001175	high incidence male progency
+WBPhenotype:0001180	accumulated germline cell corpses
+WBPhenotype:0001348	chromosome morphology variant
+WBPhenotype:0001362	chromosome condensation defect
+WBPhenotype:0001388 	organism hypersensitive gamma irradiation
+WBPhenotype:0001666	organism hypersensitive X ray irradiation
+WBPhenotype:0001675	male gonad development variant
+WBPhenotype:0001898	meiotic sister chromatid segregation variant
+WBPhenotype:0002013	univalent meiotic chromosomes
+WBPhenotype:0002188	male somatic gonad development variant
+WBPhenotype:0001021	male sexual development variant
+WBPhenotype:0000822	sex determination variant
+WBPhenotype:0001022	hermaphrodite sexual development variant
+WBPhenotype:0001572	masculinized
+WBPhenotype:0001277	transformer
+WBPhenotype:0000683	masculinization of germline
+WBPhenotype:0001694	spermatogenesis to oogenesis switch defective
+WBPhenotype:0000670	spermatogenesis variant
+WBPhenotype:0000981	spermatocyte meiosis variant
+WBPhenotype:0000987	germ cell physiology variant
+WBPhenotype:0000356	spermatogenesis delayed
+WBPhenotype:0000390	spermatid activation defective
+WBPhenotype:0001097	premature spermatocyte germ cell differentiation
+WBPhenotype:0000982	spermatid maturation variant
+WBPhenotype:0001683	spermatogenesis defective hermaphrodite
+WBPhenotype:0001829	premature spermatid activation
+WBPhenotype:0000387	sperm nonmotile
+WBPhenotype:0000712	germ cell ionizing radiation response variant
+WBPhenotype:0000737	germ cell resistant ionizing radiation
+WBPhenotype:0001850	radiation induced germ cell apoptosis variant
+WBPhenotype:0000731	germ cell hypersensitive ionizing radiation
+WBPhenotype:0001498	sperm pseudopod physiology variant
+WBPhenotype:0000966	germline mortal
+WBPhenotype:0001424	oocyte physiology variant
+WBPhenotype:0001823	sperm recruitment variant
+WBPhenotype:0000978	spermatheca physiology variant
+WBPhenotype:0000983	fertilization defective
+WBPhenotype:0001387	fertilization defect male
+WBPhenotype:0001386	fertilization defective hermaphrodite
+WBPhenotype:0001720	spermatozoa retro location defective
+WBPhenotype:0000389	hermaphrodite sperm fertilization defective
+WBPhenotype:0002440	sperm fertility defective
+WBPhenotype:0001384	fertility reduced
+WBPhenotype:0000863	male fertility reduced
+WBPhenotype:0000692	male sterile
+WBPhenotype:0000693	male sperm fertilization defect
+WBPhenotype:0000688	sterile
+WBPhenotype:0001037	sterile progeny
+WBPhenotype:0001036	sterile F1
+WBPhenotype:0001504	maternal effect sterile
+WBPhenotype:0000069	progeny variant
+WBPhenotype:0000694	hermaphrodite sterile
+WBPhenotype:0001360	hermaphrodite self sterile
+WBPhenotype:0000689	maternal sterile
+WBPhenotype:0001259	hermaphrodite fertility reduced
+WBPhenotype:0000806	hermaphrodite fertility variant
+WBPhenotype:0000154	reduced brood size
+WBPhenotype:0000784	male fertility variant

@@ -1,0 +1,274 @@
+id	term
+MP:0001127	small ovary
+MP:0001130	abnormal ovarian folliculogenesis
+MP:0001131	abnormal ovarian follicle morphology
+MP:0001132	absent mature ovarian follicles
+MP:0001134	absent corpus luteum
+MP:0001146	abnormal testis morphology
+MP:0001147	small testis
+MP:0001152	Leydig cell hyperplasia
+MP:0001153	small seminiferous tubules
+MP:0001154	tubule degeneration
+MP:0001155	arrest of spermatogenesis
+MP:0001156	abnormal spermatogenesis
+MP:0001922	reduced male fertility
+MP:0001923	reduced female fertility
+MP:0001924	infertility
+MP:0001925	male infertility
+MP:0001926	female infertility
+MP:0001929	abnormal gametogenesis
+MP:0001931	abnormal oogenesis
+MP:0001932	abnormal spermiogenesis
+MP:0002160	abnormal reproductive system morphology
+MP:0002211	abnormal primary sex determination
+MP:0002216	abnormal seminiferous tubule morphology
+MP:0002776	Sertoli cell hyperplasia
+MP:0002777	absent ovarian follicles
+MP:0002786	abnormal Leydig cell morphology
+MP:0002995	primary sex reveral
+MP:0002996	ovotestis
+MP:0003205	testicular atrophy
+MP:0004109	abnormal Sertoli cell development
+MP:0004543	abnormal sperm physiology
+MP:0004728	abnormal efferent ductules of testis morphology
+MP:0004805	absent oocytes
+MP:0004806	absent germ cells
+MP:0004833	ovary atrophy
+MP:0004852	decreased testis weight
+MP:0004901	decreased male germ cell number
+MP:0004929	decreased epididymis weight
+MP:0005159	azoospermia
+MP:0005168	abnormal female meiosis
+MP:0005169	abnormal male meiosis
+MP:0005578	teratozoospermia
+MP:0006262	increased testis tumor incidence
+MP:0006362	abnormal male germ cell morphology
+MP:0006378	abnormal spermatogonia morphology
+MP:0006379	abnormal spermatocyte morphology
+MP:0006380	abnormal spermatid morphology
+MP:0006417	rete testis obstruction
+MP:0006418	abnormal testis cord formation
+MP:0006419	disorganized testis cords
+MP:0006420	abnormal peritubular myoid cell morphology
+MP:0006421	decreased number of peritubular myoid cells
+MP:0006427	ectopic Leydig cells
+MP:0006428	ectopic Sertoli cells
+MP:0008000	increased ovary tumor incidence
+MP:0008261	arrest of male meiosis
+MP:0008280	abnormal male germ cell apoptosis
+MP:0008878	Other abnormal DNA methylation during gametogenesis
+MP:0009230	abnormal sperm head morphology
+MP:0009232	abnormal sperm nucleus morphology
+MP:0009257	dilated seminiferous tubules
+MP:0009433	polyovular ovarian follicle
+MP:0009451	abnormal chromosomal synapsis
+MP:0009452	abnormal synaptonemal complex
+MP:0009647	decreased fertilization frequency
+MP:0011750	abnormal seminiferous tubule epithelium morphology
+MP:0013603	abnormal fetal Leydig cell differentiation
+MP:0010948	abnormal double-strand DNA break repair
+MP:0004028	chromosome breakage
+MP:0008058	abnormal DNA repair
+MP:0003992	increased mortality induced by ionizing radiation
+MP:0003702	abnormal chromosome morphology
+MP:0004046	abnormal mitosis
+MP:0031379	ambiguous external female genitalia
+MP:0031378	ambiguous external male genitalia
+MP:0020364	abnormal female germ cell physiology
+MP:0031472	abnormal female germ cell apoptosis
+MP:0031473	decreased female germ cell apoptosis
+MP:0031474	increased female germ cell apoptosis
+MP:0031020	premature ovarian failure
+MP:0031017	abnormal granulosa cell proliferation
+MP:0031018	decreased granulosa cell proliferation
+MP:0031019	increased granulosa cell proliferation
+MP:0001926	female infertility
+MP:0001923	reduced female fertility
+MP:0001920	abnormal fertility/fecundity
+MP:0002683	delayed fertility
+MP:0008976	delayed female fertility
+MP:0008975	delayed male fertility
+MP:0013475	delayed reproductive senescence
+MP:0008995	early reproductive senescence
+MP:0001924	infertility
+MP:0001926	female infertility
+MP:0001925	male infertility
+MP:0001372	reduced fertility
+MP:0001935	decreased litter size
+MP:0002289	decreased litter size
+MP:0001923	reduced female fertility
+MP:0001922	reduced male fertility
+MP:0005410	abnormal fertilization
+MP:0013287	abnormal acrosome reaction
+MP:0031376	abnormal acrosomal vesicle exocytosis
+MP:0004542	impaired acrosome reaction
+MP:0013288	premature acrosome reaction
+MP:0031013	abnormal egg activation
+MP:0031014	polyspermy
+MP:0031009	abnormal sperm-egg fusion
+MP:0031010	failure of sperm-egg fusion
+MP:0005411	delayed fertilization
+MP:0000242	impaired fertilization
+MP:0009647	decreased fertilization frequency
+MP:0031010	failure of sperm-egg fusion
+MP:0030977	impaired sperm-egg recognition
+MP:0030978	impaired binding of sperm to zona pellucida
+MP:0030976	impaired sperm penetration of zona pellucida
+MP:0020363	abnormal germ cell physiology
+MP:0020364	abnormal female germ cell physiology
+MP:0031472	abnormal female germ cell apoptosis
+MP:0031473	decreased female germ cell apoptosis
+MP:0031474	increased female germ cell apoptosis
+MP:0020362	abnormal male germ cell physiology
+MP:0008280	abnormal male germ cell apoptosis
+MP:0031475	decreased male germ cell apoptosis
+MP:0014052	increased male germ cell apoptosis
+MP:0011610	abnormal primordial germ cell apoptosis
+MP:0030935	increased primordial germ cell apoptosis
+MP:0002982	abnormal primordial germ cell migration
+MP:0008390	abnormal primordial germ cell proliferation
+MP:0030934	decreased primordial germ cell proliferation
+MP:0014311	increased primordial germ cell proliferation
+MP:0003698	abnormal male reproductive system physiology
+MP:0011781	abnormal bulbourethral gland physiology
+MP:0001378	abnormal ejaculation
+MP:0009856	failure of ejaculation
+MP:0014190	abnormal epididymis physiology
+MP:0014191	abnormal epididymal cell proliferation
+MP:0014193	decreased epididymal cell proliferation
+MP:0003596	epididymis inflammation
+MP:0020362	abnormal male germ cell physiology
+MP:0008280	abnormal male germ cell apoptosis	
+MP:0014052	increased male germ cell apoptosis
+MP:0001379	abnormal penile erection
+MP:0003415	priapism
+MP:0003607	abnormal prostate gland physiology
+MP:0003608	prostate gland inflammation
+MP:0013902	abnormal seminal vesicle physiology
+MP:0013903	abnormal seminal vesicle fluid composition
+MP:0011802	seminal vesiculitis
+MP:0004543	abnormal sperm physiology
+MP:0031011	abnormal sperm migration in female genital tract
+MP:0031012	impaired sperm migration in female genital tract
+MP:0002674	abnormal sperm motility
+MP:0009279	abnormal activated sperm motility
+MP:0009280	decreased activated sperm motility
+MP:0009281	abnormal hyperactivated sperm motility
+MP:0009282	decreased hyperactivated sperm motility
+MP:0020450	abnormal sperm progressive motility
+MP:0020451	decreased sperm progressive motility
+MP:0002675	asthenozoospermia
+MP:0009280	decreased activated sperm motility
+MP:0009282	decreased hyperactivated sperm motility
+MP:0020869	immotile sperm
+MP:0031405	abnormal Sertoli cell proliferation
+MP:0031406	decreased Sertoli cell proliferation
+MP:0002685	abnormal spermatogonia proliferation
+MP:0008878	abnormal DNA methylation during gametogenesis
+MP:0020363	abnormal germ cell physiology
+MP:0020364	abnormal female germ cell physiology
+MP:0031472	abnormal female germ cell apoptosis
+MP:0031474	increased female germ cell apoptosis
+MP:0001929	abnormal gametogenesis
+MP:0008878	abnormal DNA methylation during gametogenesis
+MP:0002208	abnormal germ cell morphology
+MP:0006361	abnormal female germ cell morphology
+MP:0001125	abnormal oocyte morphology
+MP:0020152	abnormal oocyte number
+MP:0005431	decreased oocyte number
+MP:0004805	absent oocytes
+MP:0003696	abnormal zona pellucida morphology
+MP:0003697	absent zona pellucida
+MP:0009375	thin zona pellucida
+MP:0001124	abnormal gametes
+MP:0001117	absent gametes
+MP:0005159	azoospermia
+MP:0009325	necrospermia
+MP:0002687	oligozoospermia
+MP:0002684	oligozoospermia
+MP:0005578	teratozoospermia
+MP:0008892	abnormal sperm flagellum morphology
+MP:0031356	abnormal outer dense fiber morphology
+MP:0009838	abnormal sperm axoneme morphology
+MP:0031438	abnormal sperm radial spoke morphology
+MP:0031352	absent sperm axonemal central pair
+MP:0009830	abnormal sperm connecting piece morphology
+MP:0009837	abnormal sperm end piece morphology
+MP:0031351	abnormal sperm flagellum thickness
+MP:0009241	thick sperm flagellum
+MP:0009242	thin sperm flagellum
+MP:0009831	abnormal sperm midpiece morphology
+MP:0009834	abnormal sperm annulus morphology
+MP:0009835	absent sperm annulus
+MP:0009832	abnormal sperm mitochondrial sheath morphology
+MP:0009833	absent sperm mitochondrial sheath
+MP:0009836	abnormal sperm principal piece morphology
+MP:0030590	abnormal sperm fibrous sheath morphology
+MP:0030591	absent sperm fibrous sheath
+MP:0008545	absent sperm flagellum
+MP:0009238	coiled sperm flagellum
+MP:0008893	detached sperm flagellum
+MP:0009240	elongated sperm flagellum
+MP:0009243	hairpin sperm flagellum
+MP:0009237	kinked sperm flagellum
+MP:0009839	multiflagellated sperm
+MP:0031410	biflagellated sperm
+MP:0009239	short sperm flagellum
+MP:0009230	abnormal sperm head morphology
+MP:0030980	abnormal acroplaxome morphology
+MP:0008898	abnormal acrosome morphology
+MP:0031354	abnormal acrosome assembly
+MP:0031355	abnormal proacrosomal vesicle fusion
+MP:0002686	globozoospermia
+MP:0008839	absent acrosome
+MP:0009231	detached acrosome
+MP:0009232	abnormal sperm nucleus morphology
+MP:0009234	absent sperm head
+MP:0009233	enlarged sperm head
+MP:0031408	multi-headed sperm
+MP:0031409	double-headed sperm
+MP:0009235	small sperm head
+MP:0009236	pinhead sperm
+MP:0001930	abnormal meiosis
+MP:0008966	abnormal chiasmata formation
+MP:0008967	absent chiasmata formation
+MP:0009451	abnormal chromosomal synapsis
+MP:0005168	abnormal female meiosis
+MP:0010767	abnormal female meiosis I arrest
+MP:0009443	parthenogenesis
+MP:0005169	abnormal male meiosis
+MP:0011751	abnormal X-Y chromosome synapsis during male meiosis
+MP:0011752	abnormal X-Y chromosome synaptonemal complex assembly during male meiosis
+MP:0008261	arrest of male meiosis
+MP:0009564	abnormal meiotic configurations
+MP:0009565	multivalent meiotic configurations
+MP:0020957	abnormal meiotic drive
+MP:0009769	abnormal meiotic spindle assembly checkpoint
+MP:0009761	abnormal meiotic spindle morphology
+MP:0030023	abnormal meiotic telomere clustering
+MP:0030024	abnormal meiotic attachment of telomere to nuclear envelope
+MP:0009452	abnormal synaptonemal complex
+MP:0009566	meiotic nondisjunction
+MP:0004218	meiotic nondisjunction during M1 phase
+MP:0004219	meiotic nondisjunction during M2 phase
+MP:0008867	uniparental disomy
+MP:0001931	abnormal oogenesis
+MP:0006415	absent testes
+MP:0003578	absent ovary
+MP:0005644	agonadal
+MP:0002996	ovotestis
+MP:0002995	primary sex reversal
+MP:0001116	small gonad
+MP:0001127	small ovary
+MP:0004856	decreased ovary weight
+MP:0004833	ovary atrophy
+MP:0005158	ovary hypoplasia
+MP:0001147	small testis
+MP:0004852	decreased testis weight
+MP:0003205	testicular atrophy
+MP:0001940	testis hypoplasia
+MP:0002214	streak gonad
+MP:0002213	true hermaphroditism
+MP:0002212	abnormal secondary sex determination
+MP:0001937	abnormal sexual maturation
+MP:0003379	absent sexual maturation

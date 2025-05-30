@@ -1,0 +1,12 @@
+id	term
+FBcv:0000366	female sterile
+FBcv:0000367	female semi-sterile
+FBcv:0000368	female sterile germline-dependent
+FBcv:0000371	male semi-sterile
+FBcv:0000370	male sterile
+FBcv:0000375	semi-fertile
+FBcv:0000431	meiotic cell cycle defective
+FBcv:0000364	sterile
+FBcv:0006002	decreased fecundity
+FBcv:0000423	DNA repair defective
+FBcv:0000442	radiation sensitive
